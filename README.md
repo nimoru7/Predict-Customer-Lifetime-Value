@@ -48,7 +48,7 @@ Behavioral and transactional features — especially **total spend**, **site eng
 
 ## Tools & Technologies Used  
 - **Languages & Libraries**: Python, pandas, numpy, seaborn, matplotlib, scikit-learn  
-- **Models**: Logistic Regression, K-Nearest Neighbors, Random Forest, Naive Bayes  
+- **Models**: K-Nearest Neighbors  
 - **Techniques**: Feature engineering, classification, quartile-based binning, model evaluation
 
 ---
